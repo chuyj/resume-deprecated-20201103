@@ -1,0 +1,25 @@
+body{
+	background-color: #FAF8F3;
+}
+.body{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: white;
+}
+.align-right{
+	display: table;
+	width: 100%;
+	text-align: center;
+}
+.align-right-text{
+	display: table-cell;
+	vertical-align: middle;
+}
+.margin-bottom{
+	margin-bottom: 15px;
+}
+.title{
+	color: #7f7f7f;
+}
