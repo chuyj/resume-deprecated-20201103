@@ -3,6 +3,8 @@
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
 		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+
 	</ol>
 
 	<!-- Wrapper for slides -->
@@ -14,6 +16,9 @@
 
 		<div class="item">
 				<img src="./images/profile_pic2.jpg" alt="profile_pic">
+		</div>
+		<div class="item">
+				<img src="./images/profile_pic3.jpg" alt="profile_pic">
 		</div>
 	</div>
 	</a>
