@@ -20,6 +20,7 @@ require_once "header.php";
 							</h3>
 							<h4>Email: <a href="mailto: roger9chu@gmail.com">roger9chu@gmail.com</a></h3>
 							<h4>Phone Number: <a href="tel:+886989763560">+886989763560</a></h4>
+							<h4>Github: <a href="https://github.com/chuyj">https://github.com/chuyj</a></h4>
 						</div>
 					</div>
 				</div>
